@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+groq
+openai
+python-dotenv
+jinja2
+aiofiles
